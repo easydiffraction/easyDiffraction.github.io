@@ -1,6 +1,0 @@
-https://www.photopea.com/
-
-1. Select - Inverse 
-2. Image - Adjustments - Black & White... - OK
-3. Image - Adjustments - Hue/Saturation... - Lightness: 50 - OK
-4. Filter - Blur - Motion Blur - Distance: 14px - OK
